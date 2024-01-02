@@ -1,4 +1,4 @@
-type Pizza = {
+export type Pizza = {
 	id: string;
 	name: string;
 	description: string;

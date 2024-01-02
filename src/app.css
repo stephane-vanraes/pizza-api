@@ -1,0 +1,32 @@
+:root {
+  --green: #52AA44;
+  --red: #D63E12;
+  --orange: #FF6106;
+  --yellow: #F5AC3F;
+  --brown: #DBA87F;
+}
+* {
+  box-sizing: border-box;
+  color: inherit;
+  font: inherit;
+  line-height: 1.2;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+body {
+  background-color: var(--brown);
+  display: flex;
+  flex-direction: column;
+  font-size: 1.25rem;
+  gap: 1rem;
+  min-block-size: 100dvh;
+}
+
+a {
+  align-items: center;
+  display: flex;
+  gap: 1ch;
+}
