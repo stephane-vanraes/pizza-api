@@ -2,4 +2,5 @@
 
 A SvelteKit based API with pizzas for demo purposes
 
-All recipes generate by ChatGPT, images will follow
+Recipes and descriptions generated with ChatGPT
+Images generated with Stable Diffusion (using ComfyUI)
