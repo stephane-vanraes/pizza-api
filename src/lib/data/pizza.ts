@@ -109,7 +109,7 @@ const pizzas: Pizza[] = [
 		description:
 			'Discover perfection with our Avocado and Pistachio Perfection Pizza. Creamy avocado slices, roasted pistachios, and tangy goat cheese on a multigrain crust create a perfect harmony of creamy and crunchy. The creaminess of avocado, the crunch of pistachios, and the tanginess of goat cheese combine for a pizza that is a true perfection. Indulge in this exclusive creation only at our restaurant.',
 		ingredients: ['avocado', 'pistachios', 'goat cheese'],
-		image: 'e4f4bea6-15d7-4d6c-9faf-70721a47fa61png'
+		image: 'e4f4bea6-15d7-4d6c-9faf-70721a47fa61.png'
 	},
 	{
 		id: '7fe4c5cf-3471-471d-8a3b-073b4f04d6d9',
