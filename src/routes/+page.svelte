@@ -1,4 +1,4 @@
-<h1>Pizza API</h1>
+<h1>Pizza Collection</h1>
 
 <p>Documentation will follow</p>
 
