@@ -5,7 +5,7 @@
 <ul>
 	{#each data.pizzas as pizza}
 		<li>
-			<a href="/pizza/{pizza.id}">{pizza.name}</a>
+			<a href="/pizza/{pizza.slug}">{pizza.name}</a>
 		</li>
 	{/each}
 </ul>
